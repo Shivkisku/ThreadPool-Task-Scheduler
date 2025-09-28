@@ -15,4 +15,4 @@ This project implements a thread pool-based task scheduler that efficiently mana
 - **Memory Safety**: Proper allocation and deallocation of resources
 - **Synchronization**: Advanced use of mutexes and condition variables
 
-## Project Structure
+
